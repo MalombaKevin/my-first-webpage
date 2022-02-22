@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+    background-color: yellow;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+li {
+    line-height: 40px;
+    text-align: center;
+    list-style: none;
+}
+
+img {
+    margin-left: 25%;
+}
