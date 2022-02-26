@@ -25,3 +25,15 @@ li {
 img {
     margin-left: 25%;
 }
+
+@media screen and (min-width:200px) {
+    p,
+    h1,
+    body {
+        background-color: black;
+        color: white;
+    }
+    img {
+        width: 50%;
+    }
+}
